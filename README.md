@@ -1,25 +1,17 @@
-About me
-<!--
-**jaquelinesv90/jaquelinesv90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on 
+:ledger: About me
 
 
-🌱 I’m currently learning
+:pencil2: I’m currently working on:
+ - My personal projects
 
+ :books: I’m currently learning:
 - Java Core
 - Spring Rest
 - JPA/HIBERNATE
 
+:dancers: I’m looking to collaborate on:
+- Any Java Projects
 
-👯 I’m looking to collaborate on
-
-Any Java Projects
-
-
-📫 How to reach me:
+:mailbox: How to reach me:
 Linkedin or email
-
 
