@@ -1,10 +1,10 @@
-## :ledger: About me
+##  About me
 
 
-## :pencil2: I’m currently working on:
+## :telescope: I’m currently working on:
  - My personal projects
 
-## :books: I’m currently learning:
+## :seedling: I’m currently learning:
 - Java Core
 - Spring Rest
 - JPA/HIBERNATE
