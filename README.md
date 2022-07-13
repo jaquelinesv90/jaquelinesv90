@@ -3,6 +3,7 @@
 
 ## :telescope: I’m currently working on:
  - My personal projects
+ - Looking for an opportunity to work as a software developer
 
 ## :seedling: I’m currently learning:
 - Java Core
