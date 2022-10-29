@@ -10,7 +10,7 @@
 - Spring Rest
 - JPA/HIBERNATE
 - Oracle Database 
-* Not exactly in this order or everyday but most of time this list.
+* Not exactly in this order or everyday, but most of time this list.
 
 ## :dancers: I’m looking to collaborate on:
 - Any Java Projects
