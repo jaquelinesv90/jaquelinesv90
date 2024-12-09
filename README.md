@@ -9,7 +9,7 @@
 - Javascript
 - Spring Rest
 - JPA/HIBERNATE
-- Oracle Database
+- SQL/Databases
 - Android
 * Not exactly in this order, or everyday, but most of time this list.
 
